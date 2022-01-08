@@ -12,7 +12,7 @@ this_is_a_map 'yes'
 
 client_scripts {
 
-        'scripts/twoislands.lua', -- Both Islands Visible At One Time
+    'scripts/twoislands.lua', -- Both Islands Visible At One Time
 	
 	'scripts/cayo_perico_entitysets.lua', -- Responsible for spawning in heist props in El Rubio's Mansion safe. You can use this file to change the prop that appears.
 	
