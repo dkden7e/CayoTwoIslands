@@ -118,19 +118,13 @@ Los Santos and Cayo Perico will only both show up on the minimap / pause map, if
 
 # **VEHICLES & GATES** 🚘
 
-`No Flight Or Water Vehicles`, and `NoVehicles` folders have now been combined and put inside the `OPTIONAL` folder.
+ `Vehicles - Removed`, and `Vehicles - No Flight Or Water` provided. If you ever want the vehicles back, copy the backup files from `Vehicles Backup`.
 
-If for whatever reason you would like to add the original gates back, but have them be accessible and not solid shut, *as well as the little button seen in the Cayo Perico Heist in Grand Theft Auto: Online,* I have provided the folder `OPTIONAL`. Place `tays_mansiongates` inside the `ymaps` folder.
-
-# VEHICLES:
-
-**"Vehicles - No Flight Or Water" and "Vehicles - Removed" options updated and provided within the `OPTIONAL` folder. Drag and drop the files you require into the CayoImprovements ymap folder.** Backups have been provided.
+If for whatever reason you would like to add the original gates back, but have them be accessible and not solid shut, *as well as the little button seen in the Cayo Perico Heist in Grand Theft Auto: Online,* I have provided the folder `Gates`. Place `tays_mansiongates` inside the `ymaps` folder of `CayoTwoIslands`
 
 # **HANGAR COLLISIONS:**
 
-The hangar collision file is also in the `OPTIONAL` folder.
-
-If you happen to have the '"[Cayo Perico Shops MLO](https://forum.cfx.re/t/mlo-cayo-perico-shops/1994908)' resource, as well as mine, the server refuses to read the collision file for shops, but instead, read mine, making the shop collisions not work. 
+`Original Hangar Collision` folder provided. If you happen to have the '"[Cayo Perico Shops MLO](https://forum.cfx.re/t/mlo-cayo-perico-shops/1994908)' resource, as well as mine, the server refuses to read the collision file for shops, but instead, read mine, making the shop collisions not work. 
 
 Just copy and paste mine, or the Cayo Perico Shops collision file **(h4_islandairstrip_12)** into the ybn folder. 
 
