@@ -61,7 +61,9 @@ I hope you enjoy 😊
 
 # Static Emitters 🎶
 
-I have disabled the static emitters at the Arena Wars location, however if you are using PMMS alongside my Cayo Perico resource, PMMS disables static emitters when media is being rendered, and reenables them when the media has stopped playing, therefore, it counteracts with this resource. To 'fix' this, open the `staticEmitters.lua` file inside the PMMS resource, and modify the following;
+I have disabled the static emitters at the Arena Wars location, however if you are using PMMS alongside my Cayo Perico resource, PMMS disables static emitters when media is being rendered, and reenables them when the media has stopped playing, therefore, it counteracts with this resource. 
+
+To 'fix' this, open the `staticEmitters.lua` file inside the PMMS resource, and set the following to false like so;
 
 ```
 {name = "SE_DLC_AW_Arena_Crowd_Background_Main", enabled = false},
