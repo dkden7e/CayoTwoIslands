@@ -41,6 +41,12 @@ I hope you enjoy 😊
 
 ---------------------------------------
 
+# Configuring PMMS
+
+**Please see [Kibook's PMMS](https://github.com/kibook/pmms) for installation instructions and troubleshooting**
+
+
+
 **If you want the TV at the beach party to fade out nicely at a certain point, try these settings, then go to advanced settings and save it as an entity, call it Cayo Perico Beach TV:**
 
 > Volume: 100
@@ -53,6 +59,16 @@ I hope you enjoy 😊
 
 **In the future, any TV settings you want, save it as an entity. Saving it as model will save those settings for that TV, everywhere around the map.**
 
+# Static Emitters 🎶
+
+I have disabled the static emitters at the Arena Wars location, however if you are using PMMS alongside my Cayo Perico resource, PMMS disables static emitters when media is being rendered, and reenables them when the media has stopped playing, therefore, it counteracts with this resource. To 'fix' this, open the `staticEmitters.lua` file inside the PMMS resource, and modify the following;
+
+```
+{name = "SE_DLC_AW_Arena_Crowd_Background_Main", enabled = false},
+{name = "SE_DLC_AW_xs_arena_VIP_Radio", enabled = false},
+{name = "SE_DLC_AW_xs_x18_int_mod_garage_radio", enabled = false},
+{name = "SE_DLC_AW_xs_x18_int_mod2_garage_radio", enabled = false},
+```
 ---------------------------------------
 
 # CONTENTS 🏝️
