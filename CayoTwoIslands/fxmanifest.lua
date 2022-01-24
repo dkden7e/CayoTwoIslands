@@ -1,12 +1,14 @@
 fx_version "cerulean"
 game "gta5"
 
-name "Cayo Perico Improvements V2.0.0"
+name "CayoTwoIslands"
 author "TayMcKenzieNZ"
 description "Spawns Cayo Perico alongside Los Santos"
 
---- Server build must be on 3324 or higher, however FiveM and myself recommend that you update the server build to the LATEST RECOMMENDED at least once a month
+
+--- Server build must be on the LATEST recommended server build. You should be checking for and updating this at least once a month
 -- Server MUST be on gamebuild 2189 or higher for this resource to run sucessfully
+
 
 this_is_a_map 'yes'
 
@@ -23,6 +25,8 @@ client_scripts {
 	'scripts/peds_config.lua', -- Invincible peds that appear on the island, ie merryweather
 	
 	'scripts/main_peds.lua', -- Don't touch
+	
+	'scripts/static_emitters.lua' -- Disables annoying 'cheering' SFXs from Arena Wars location near North Yankton / Cayo Perico 
 	
 	
 	
