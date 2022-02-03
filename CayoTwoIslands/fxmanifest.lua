@@ -1,9 +1,9 @@
-fx_version "cerulean"
-game "gta5"
+fx_version 'cerulean'
+game 'gta5'
 
-name "CayoTwoIslands"
-author "TayMcKenzieNZ"
-description "Spawns Cayo Perico alongside Los Santos"
+name 'CayoTwoIslands'
+author 'TayMcKenzieNZ'
+description 'Spawns Cayo Perico alongside Los Santos'
 
 
 --- Server build must be on the LATEST recommended server build. You should be checking for and updating this at least once a month
