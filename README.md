@@ -175,26 +175,7 @@ If at any time you need the vehicles back, grab the files from `Vehicles BACKUP`
 
 * Restart server or type `/start CayoTwoIslands` into the chat window 
 
--------------------
 
-# FAQ
-
-**Q: How come I can't see Cayo Perico on the minimap unless I get close to the Aircraft Carrier or near where the island is??**
-
-**A:** It's concealed the way Rockstar Games created it, and it had to be done this way to make the modified hangar work.
-
-**Maybe this can help?:**
-
-[How To Load Cayo Perico Minimap](https://forum.cfx.re/t/how-to-load-cayoperico-minimap-all-of-the-time/4808760)
-
-------------
-
-**Q: When I use this resource, I can't use Rockstar Editor. Why?**
-
-**A:** Apparently, *for this to work properly, your IPLs/ymaps have to have Flag value on 1 (alternatively 3) General rule is that if ymap originally has Flag 0, it can be set to 1. If Flag is 2, it can be set to 3*, according to this [post](https://forum.cfx.re/t/standalone-paid-maploader/4808482)
-
-
----------------------------------------
 
 # License 
 
@@ -207,7 +188,6 @@ You are not allowed to change/add a license. If you want to modify or make an ag
 Pull requests are accepted as long as they do not contain breaking changes. 
 
 You can read more here [HERE](https://opensource.stackexchange.com/questions/1720/what-can-i-assume-if-a-publicly-published-project-has-no-license)
-
 
 
 ---------------------------------------
