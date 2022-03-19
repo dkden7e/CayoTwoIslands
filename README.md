@@ -176,6 +176,57 @@ If at any time you need the vehicles back, grab the files from `Vehicles BACKUP`
 * Restart server or type `/start CayoTwoIslands` into the chat window 
 
 
+--------------------
+
+# FAQ
+
+**Q: How can I change what's inside the cabinet in the basement?**
+
+**A:** These are called entitysets and can be changed in the cayo_perico_entitysets.lua file.
+
+------------
+
+**Q: Can I delete, change or turn off the invincible NPC peds on the island?**
+
+**A:** Yes, open peds_config.lua and everything has been configured there. You can add / remove entries, or comment it out from the fxmanifest to completely disable them.
+
+You will also need to comment out main_peds.lua if you want to disable them completely.
+
+------------
+
+**Q: How come I can't see Cayo Perico unless I get close to the Aircraft Carrier or near where the island is, and the minimap doesn't appear??**
+
+**A:** It's concealed the way Rockstar Games created it, and it had to be done this way to make the modified hangar work.
+
+**Maybe this can help?:**
+
+[How To Load Cayo Perico Minimap](https://forum.cfx.re/t/how-to-load-cayoperico-minimap-all-of-the-time/4808760)
+
+------------
+
+**Q: When I use this resource, I can't use Rockstar Editor. Why?**
+
+**A:** This should be fixed, as the Cfx.re team have pushed an update on February 8th 2022 which implemented some CPacketIPL changes for the replay editor. This should fix replay editor issues on build 2189 and above with common IPL loading resources.
+
+Read about it [here](https://forum.cfx.re/t/cfx-re-client-update-fivem-redm-for-february-8th-2022/4813410)
+
+------------
+
+**Q: I bought something from someone that looked similar to this?**
+
+**A:** Yikes. My resources are always free and some people pry on free resources to sell them off as their own, usually on some shady website or their discord servers. 
+
+Unfortunately you've been scammed and I cannot help you get a refund or anything of that manner.
+
+------------
+
+**Q: Can I DM you / can you help me personally one on one?**
+
+**A:** No. Don't DM me on the FiveM forums and don't try to add me on Discord.
+
+---------------------------------------
+
+
 
 # License 
 
